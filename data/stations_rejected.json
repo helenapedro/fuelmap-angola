@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-02T14:26:38+00:00",
+    "generated_at": "2026-11-09T14:52:15+00:00",
     "record_count": 279,
     "rejected_count": 63,
     "province_backfill": {
@@ -23,14 +23,14 @@
         "status": "stale_reused",
         "record_count": 187,
         "is_stale": true,
-        "error": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+        "error": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
       },
       {
         "source": "SonangolOpenStreetMap",
         "status": "stale_reused",
         "record_count": 80,
         "is_stale": true,
-        "error": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
+        "error": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
       },
       {
         "source": "Pumangol",
@@ -46,14 +46,14 @@
         "status": "stale_reused",
         "record_count": 187,
         "is_stale": true,
-        "error": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+        "error": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
       },
       {
         "source": "SonangolOpenStreetMap",
         "status": "stale_reused",
         "record_count": 80,
         "is_stale": true,
-        "error": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
+        "error": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
       },
       {
         "source": "Pumangol",
@@ -83,7 +83,7 @@
       "source_name": "BundledLegacyPumangol",
       "source_url": "https://www.pumangol.co.ao/pt/institucional/mapa-de-postos-de-abastecimento",
       "source_id": "Caxito",
-      "scraped_at": "2026-11-02T14:26:04+00:00",
+      "scraped_at": "2026-11-09T14:51:40+00:00",
       "province_inferred": false,
       "rejection_reasons": [
         "null island coordinates"
@@ -108,7 +108,7 @@
         "possible encoding or html entity issue"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "TotalEnergies",
@@ -129,7 +129,7 @@
         "possible encoding or html entity issue"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -153,7 +153,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -177,7 +177,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -201,7 +201,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -225,7 +225,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -249,7 +249,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -273,7 +273,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -297,7 +297,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -321,7 +321,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -345,7 +345,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -369,7 +369,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -393,7 +393,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -417,7 +417,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -441,7 +441,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -465,7 +465,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -489,7 +489,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -513,7 +513,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -537,7 +537,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -561,7 +561,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -585,7 +585,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -609,7 +609,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -633,7 +633,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -657,7 +657,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -681,7 +681,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -705,7 +705,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -729,7 +729,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -753,7 +753,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -777,7 +777,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -801,7 +801,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -825,7 +825,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -849,7 +849,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -873,7 +873,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -897,7 +897,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -921,7 +921,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -945,7 +945,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -969,7 +969,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -993,7 +993,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1017,7 +1017,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1041,7 +1041,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1065,7 +1065,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1089,7 +1089,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1113,7 +1113,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1137,7 +1137,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1161,7 +1161,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1185,7 +1185,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1209,7 +1209,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1233,7 +1233,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1257,7 +1257,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1281,7 +1281,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1305,7 +1305,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1329,7 +1329,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1353,7 +1353,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1377,7 +1377,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1401,7 +1401,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1425,7 +1425,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1449,7 +1449,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1473,7 +1473,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1497,7 +1497,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1521,7 +1521,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1545,7 +1545,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     },
     {
       "operator": "Unknown",
@@ -1569,7 +1569,7 @@
         "station name is an OSM element id"
       ],
       "is_stale": true,
-      "stale_reason": "502 Server Error: Bad Gateway for url: https://overpass-api.de/api/interpreter"
+      "stale_reason": "HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
